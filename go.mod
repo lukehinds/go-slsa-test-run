@@ -1,4 +1,4 @@
-module github.com/lukehinds/example-go
+module github.com/lukehinds/go-slsa-test-run
 
 go 1.19
 
